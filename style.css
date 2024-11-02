@@ -1,0 +1,39 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
+
+.Main-Heading {
+    text-align: center;
+    font-size: 80px;
+    background-color: blue;
+
+}
+
+.Homepage.List {
+    list-style-type: none;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: red;
+    font-size: 60px;
+}
+
+h3 {
+    background-color: orange;
+    font-size: 40px;
+}
+
+h5 {
+    font-size: 30px;
+}
+
+p {
+    text-indent: 4ch;
+    text-align: center;
+}
+
